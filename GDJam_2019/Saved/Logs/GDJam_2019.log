@@ -2682,3 +2682,20 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.09-18.07.58:761][255]LogSavePackage: Moving '../../../../../../Repos/GDJam-2019-4-Category/GDJam_2019/Saved/M_Windy_1582FD579423305D2735F90B1FB2F011F.tmp' to '../../../../../../Repos/GDJam-2019-4-Category/GDJam_2019/Content/Materials/M_Windy_1.uasset'
 [2019.11.09-18.08.03:162][514]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.11.09-18.08.08:977][858]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2019.11.09-18.14.11:690][406]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/GameHUD.GameHUD
+[2019.11.09-18.14.16:282][566]LogSlate: Window 'GameHUD' being destroyed
+[2019.11.09-18.19.59:432][643]LogUObjectHash: Compacting FUObjectHashTables data took   5.21ms
+[2019.11.09-18.19.59:432][643]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.130
+[2019.11.09-18.19.59:434][643]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/GameHUD] ([1] browsable assets)...
+[2019.11.09-18.19.59:434][643]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/GameHUD]
+[2019.11.09-18.19.59:434][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/GameHUD" FILE="../../../../../../Repos/GDJam-2019-4-Category/GDJam_2019/Saved/Autosaves/Game/UI/GameHUD_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.11.09-18.19.59:449][643]LogSavePackage: Moving '../../../../../../Repos/GDJam-2019-4-Category/GDJam_2019/Saved/GameHUD_Auto125930B624DE9D4E7FE95BCA5AD77E508.tmp' to '../../../../../../Repos/GDJam-2019-4-Category/GDJam_2019/Saved/Autosaves/Game/UI/GameHUD_Auto1.uasset'
+[2019.11.09-18.19.59:451][643]LogFileHelpers: Auto-saving content packages took 0.017
+[2019.11.09-18.20.43:826][183]LogSlate: Window 'Color Picker' being destroyed
+[2019.11.09-18.20.47:463][401]BlueprintLog: New page: Compile GameHUD
+[2019.11.09-18.20.47:523][401]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2019.11.09-18.20.48:182][435]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/GameHUD" FILE="../../../../../../Repos/GDJam-2019-4-Category/GDJam_2019/Content/UI/GameHUD.uasset" SILENT=true
+[2019.11.09-18.20.48:198][435]LogSavePackage: Moving '../../../../../../Repos/GDJam-2019-4-Category/GDJam_2019/Saved/GameHUDEDE3DA60431737550F7E82A7E86B3861.tmp' to '../../../../../../Repos/GDJam-2019-4-Category/GDJam_2019/Content/UI/GameHUD.uasset'
+[2019.11.09-18.20.50:522][569]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2019.11.09-18.20.50:589][569]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2019.11.09-18.20.56:094][877]LogUObjectHash: Compacting FUObjectHashTables data took   5.42ms
