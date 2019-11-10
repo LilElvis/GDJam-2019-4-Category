@@ -3008,3 +3008,297 @@ Script Stack (0 frames):
 [2019.11.09-23.52.22:787][668]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
 [2019.11.09-23.52.22:825][668]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Death" FILE="../../../../../../Users/Ray/Documents/UE4 Projects/GDJam-2019-4-Category/GDJam_2019/Content/Characters/Death.uasset" SILENT=true
 [2019.11.09-23.52.22:952][668]LogSavePackage: Moving '../../../../../../Users/Ray/Documents/UE4 Projects/GDJam-2019-4-Category/GDJam_2019/Saved/Death5E5AE4A54A307E1599E5A39251C37D63.tmp' to '../../../../../../Users/Ray/Documents/UE4 Projects/GDJam-2019-4-Category/GDJam_2019/Content/Characters/Death.uasset'
+[2019.11.09-23.55.28:253][498]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.09-23.55.28:301][498]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Base_Level.Base_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Base_Level.Base_Level:PersistentLevel.Base_Level' with GeneratedClass '/Game/Maps/Base_Level.Base_Level_C' with ClassGeneratedBy '/Game/Maps/Base_Level.Base_Level:PersistentLevel.Base_Level'
+[2019.11.09-23.55.28:302][498]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.09-23.55.28:302][498]PIE: New page: PIE session: Base_Level (Nov 9, 2019, 1:55:28 PM)
+[2019.11.09-23.55.28:302][498]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Base_Level
+[2019.11.09-23.55.28:304][498]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001711s)
+[2019.11.09-23.55.28:305][498]LogAIModule: Creating AISystem for world Base_Level
+[2019.11.09-23.55.28:305][498]LogPlayLevel: PIE: World Init took: (0.001153s)
+[2019.11.09-23.55.28:305][498]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Base_Level.Base_Level to /Game/Maps/UEDPIE_0_Base_Level.Base_Level (0.003028s)
+[2019.11.09-23.55.28:363][498]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2019.11.09-23.55.28:367][498]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.09-23.55.28:457][498]LogInit: FAudioDevice initialized.
+[2019.11.09-23.55.28:468][498]LogLoad: Game class is 'LightAndDark_C'
+[2019.11.09-23.55.28:470][498]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Base_Level.Base_Level up for play (max tick rate 60) at 2019.11.09-18.55.28
+[2019.11.09-23.55.28:470][498]LogWorld: Bringing up level for play took: 0.000935
+[2019.11.09-23.55.28:471][498]LogOnline: OSS: Creating online subsystem instance for: :Context_82
+[2019.11.09-23.55.28:476][498]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Base_Level -0.477
+[2019.11.09-23.55.28:476][498]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Base_Level.Base_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Base_Level.Base_Level:PersistentLevel.Base_Level' with GeneratedClass '/Game/Maps/Base_Level.Base_Level_C' with ClassGeneratedBy '/Game/Maps/Base_Level.Base_Level:PersistentLevel.Base_Level'
+[2019.11.09-23.56.16:058][349]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Base_Level.Base_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Base_Level.Base_Level:PersistentLevel.Base_Level' with GeneratedClass '/Game/Maps/Base_Level.Base_Level_C' with ClassGeneratedBy '/Game/Maps/Base_Level.Base_Level:PersistentLevel.Base_Level'
+[2019.11.09-23.56.16:058][349]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.09-23.56.16:058][349]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Base_Level
+[2019.11.09-23.56.16:058][349]LogWorld: UWorld::CleanupWorld for Base_Level, bSessionEnded=true, bCleanupResources=true
+[2019.11.09-23.56.16:070][349]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.09-23.56.16:070][349]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Base_Level.Base_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Base_Level.Base_Level:PersistentLevel.Base_Level' with GeneratedClass '/Game/Maps/Base_Level.Base_Level_C' with ClassGeneratedBy '/Game/Maps/Base_Level.Base_Level:PersistentLevel.Base_Level'
+[2019.11.09-23.56.16:130][349]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.09-23.56.16:136][349]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2019.11.09-23.56.16:174][351]LogPlayLevel: Display: Destroying online subsystem :Context_82
+[2019.11.09-23.56.18:759][505]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.09-23.56.20:237][591]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2019.11.09-23.56.22:095][703]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-23.56.55:463][525]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-23.58.44:621][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-23.58.59:667][972]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.09-23.58.59:716][972]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Base_Level.Base_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Base_Level.Base_Level:PersistentLevel.Base_Level' with GeneratedClass '/Game/Maps/Base_Level.Base_Level_C' with ClassGeneratedBy '/Game/Maps/Base_Level.Base_Level:PersistentLevel.Base_Level'
+[2019.11.09-23.58.59:716][972]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.09-23.58.59:716][972]PIE: New page: PIE session: Base_Level (Nov 9, 2019, 1:58:59 PM)
+[2019.11.09-23.58.59:716][972]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Base_Level
+[2019.11.09-23.58.59:717][972]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001344s)
+[2019.11.09-23.58.59:718][972]LogAIModule: Creating AISystem for world Base_Level
+[2019.11.09-23.58.59:719][972]LogPlayLevel: PIE: World Init took: (0.001201s)
+[2019.11.09-23.58.59:719][972]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Base_Level.Base_Level to /Game/Maps/UEDPIE_0_Base_Level.Base_Level (0.002673s)
+[2019.11.09-23.58.59:780][972]LogUObjectHash: Compacting FUObjectHashTables data took   5.22ms
+[2019.11.09-23.58.59:784][972]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.09-23.58.59:870][972]LogInit: FAudioDevice initialized.
+[2019.11.09-23.58.59:875][972]LogLoad: Game class is 'LightAndDark_C'
+[2019.11.09-23.58.59:877][972]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Base_Level.Base_Level up for play (max tick rate 60) at 2019.11.09-18.58.59
+[2019.11.09-23.58.59:877][972]LogWorld: Bringing up level for play took: 0.000576
+[2019.11.09-23.58.59:877][972]LogOnline: OSS: Creating online subsystem instance for: :Context_83
+[2019.11.09-23.58.59:882][972]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Base_Level 0.929
+[2019.11.09-23.58.59:882][972]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Base_Level.Base_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Base_Level.Base_Level:PersistentLevel.Base_Level' with GeneratedClass '/Game/Maps/Base_Level.Base_Level_C' with ClassGeneratedBy '/Game/Maps/Base_Level.Base_Level:PersistentLevel.Base_Level'
+[2019.11.09-23.59.09:800][567]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Base_Level.Base_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Base_Level.Base_Level:PersistentLevel.Base_Level' with GeneratedClass '/Game/Maps/Base_Level.Base_Level_C' with ClassGeneratedBy '/Game/Maps/Base_Level.Base_Level:PersistentLevel.Base_Level'
+[2019.11.09-23.59.09:800][567]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.09-23.59.09:800][567]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Base_Level
+[2019.11.09-23.59.09:800][567]LogWorld: UWorld::CleanupWorld for Base_Level, bSessionEnded=true, bCleanupResources=true
+[2019.11.09-23.59.09:810][567]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.09-23.59.09:810][567]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Base_Level.Base_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Base_Level.Base_Level:PersistentLevel.Base_Level' with GeneratedClass '/Game/Maps/Base_Level.Base_Level_C' with ClassGeneratedBy '/Game/Maps/Base_Level.Base_Level:PersistentLevel.Base_Level'
+[2019.11.09-23.59.09:871][567]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.09-23.59.09:876][567]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2019.11.09-23.59.09:912][569]LogPlayLevel: Display: Destroying online subsystem :Context_83
+[2019.11.09-23.59.13:414][745]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-23.59.23:487][ 76]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.11.10-00.00.09:496][975]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.10-00.00.09:538][975]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Base_Level.Base_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Base_Level.Base_Level:PersistentLevel.Base_Level' with GeneratedClass '/Game/Maps/Base_Level.Base_Level_C' with ClassGeneratedBy '/Game/Maps/Base_Level.Base_Level:PersistentLevel.Base_Level'
+[2019.11.10-00.00.09:538][975]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.10-00.00.09:538][975]PIE: New page: PIE session: Base_Level (Nov 9, 2019, 2:00:09 PM)
+[2019.11.10-00.00.09:538][975]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Base_Level
+[2019.11.10-00.00.09:539][975]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001280s)
+[2019.11.10-00.00.09:540][975]LogAIModule: Creating AISystem for world Base_Level
+[2019.11.10-00.00.09:541][975]LogPlayLevel: PIE: World Init took: (0.001258s)
+[2019.11.10-00.00.09:541][975]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Base_Level.Base_Level to /Game/Maps/UEDPIE_0_Base_Level.Base_Level (0.002649s)
+[2019.11.10-00.00.09:599][975]LogUObjectHash: Compacting FUObjectHashTables data took   5.42ms
+[2019.11.10-00.00.09:602][975]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.10-00.00.09:686][975]LogInit: FAudioDevice initialized.
+[2019.11.10-00.00.09:701][975]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.10-00.00.09:701][975]LogLoad: Game class is 'LightAndDark_C'
+[2019.11.10-00.00.09:702][975]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Base_Level.Base_Level up for play (max tick rate 60) at 2019.11.09-19.00.09
+[2019.11.10-00.00.09:702][975]LogWorld: Bringing up level for play took: 0.000710
+[2019.11.10-00.00.09:702][975]LogOnline: OSS: Creating online subsystem instance for: :Context_84
+[2019.11.10-00.00.09:704][975]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.11.10-00.00.09:709][975]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Base_Level 0.757
+[2019.11.10-00.00.09:710][975]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Base_Level.Base_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Base_Level.Base_Level:PersistentLevel.Base_Level' with GeneratedClass '/Game/Maps/Base_Level.Base_Level_C' with ClassGeneratedBy '/Game/Maps/Base_Level.Base_Level:PersistentLevel.Base_Level'
+[2019.11.10-00.00.47:978][217]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Base_Level.Base_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Base_Level.Base_Level:PersistentLevel.Base_Level' with GeneratedClass '/Game/Maps/Base_Level.Base_Level_C' with ClassGeneratedBy '/Game/Maps/Base_Level.Base_Level:PersistentLevel.Base_Level'
+[2019.11.10-00.00.47:978][217]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.10-00.00.47:979][217]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Base_Level
+[2019.11.10-00.00.48:004][217]LogSlate: Window 'GDJam_2019 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.10-00.00.48:010][217]LogWorld: UWorld::CleanupWorld for Base_Level, bSessionEnded=true, bCleanupResources=true
+[2019.11.10-00.00.48:025][217]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.10-00.00.48:025][217]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Base_Level.Base_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Base_Level.Base_Level:PersistentLevel.Base_Level' with GeneratedClass '/Game/Maps/Base_Level.Base_Level_C' with ClassGeneratedBy '/Game/Maps/Base_Level.Base_Level:PersistentLevel.Base_Level'
+[2019.11.10-00.00.48:094][217]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2019.11.10-00.00.48:146][218]LogPlayLevel: Display: Destroying online subsystem :Context_84
+[2019.11.10-00.01.02:134][ 32]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/LightObject.LightObject
+[2019.11.10-00.02.08:668][969]BlueprintLog: New page: Compile LightObject
+[2019.11.10-00.02.08:990][969]LogUObjectHash: Compacting FUObjectHashTables data took   5.61ms
+[2019.11.10-00.02.09:972][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/LightObject" FILE="../../../../../../Users/Ray/Documents/UE4 Projects/GDJam-2019-4-Category/GDJam_2019/Content/Blueprints/LightObject.uasset" SILENT=true
+[2019.11.10-00.02.10:050][ 24]LogSavePackage: Moving '../../../../../../Users/Ray/Documents/UE4 Projects/GDJam-2019-4-Category/GDJam_2019/Saved/LightObjectF0724443400067E8A987F8B06539CC8C.tmp' to '../../../../../../Users/Ray/Documents/UE4 Projects/GDJam-2019-4-Category/GDJam_2019/Content/Blueprints/LightObject.uasset'
+[2019.11.10-00.02.23:908][702]LogUObjectHash: Compacting FUObjectHashTables data took   5.33ms
+[2019.11.10-00.02.32:293][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   5.52ms
+[2019.11.10-00.02.32:321][ 41]LogMetaData: Removing '/Game/Blueprints/DarkObject.SKEL_DarkObject_C' ref from Metadata '/Game/Blueprints/LightObject_2.PackageMetaData'
+[2019.11.10-00.02.32:322][ 41]LogMetaData: Removing '/Game/Blueprints/DarkObject.DarkObject_C' ref from Metadata '/Game/Blueprints/LightObject_2.PackageMetaData'
+[2019.11.10-00.02.32:430][ 41]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DarkObject" FILE="../../../../../../Users/Ray/Documents/UE4 Projects/GDJam-2019-4-Category/GDJam_2019/Content/Blueprints/DarkObject.uasset" SILENT=true
+[2019.11.10-00.02.32:453][ 41]LogSavePackage: Moving '../../../../../../Users/Ray/Documents/UE4 Projects/GDJam-2019-4-Category/GDJam_2019/Saved/DarkObjectCFB3051E4B35F7252CF2FA953F5B87A9.tmp' to '../../../../../../Users/Ray/Documents/UE4 Projects/GDJam-2019-4-Category/GDJam_2019/Content/Blueprints/DarkObject.uasset'
+[2019.11.10-00.02.32:798][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2019.11.10-00.02.32:857][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2019.11.10-00.02.32:906][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2019.11.10-00.02.41:509][501]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/DarkObject.DarkObject
+[2019.11.10-00.03.00:259][588]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DarkObject" FILE="../../../../../../Users/Ray/Documents/UE4 Projects/GDJam-2019-4-Category/GDJam_2019/Content/Blueprints/DarkObject.uasset" SILENT=true
+[2019.11.10-00.03.00:315][588]LogSavePackage: Moving '../../../../../../Users/Ray/Documents/UE4 Projects/GDJam-2019-4-Category/GDJam_2019/Saved/DarkObject49A2BC094215984FEFFA089EB097A328.tmp' to '../../../../../../Users/Ray/Documents/UE4 Projects/GDJam-2019-4-Category/GDJam_2019/Content/Blueprints/DarkObject.uasset'
+[2019.11.10-00.03.00:808][617]BlueprintLog: New page: Compile DarkObject
+[2019.11.10-00.03.01:121][617]LogUObjectHash: Compacting FUObjectHashTables data took   5.45ms
+[2019.11.10-00.04.38:530][693]LogEditorTransaction: Undo Move Node
+[2019.11.10-00.05.18:586][ 58]LogSlate: Took 0.022229 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.11.10-00.06.30:219][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/LightObject" FILE="../../../../../../Users/Ray/Documents/UE4 Projects/GDJam-2019-4-Category/GDJam_2019/Content/Blueprints/LightObject.uasset" SILENT=true
+[2019.11.10-00.06.30:258][323]LogSavePackage: Moving '../../../../../../Users/Ray/Documents/UE4 Projects/GDJam-2019-4-Category/GDJam_2019/Saved/LightObjectACA63BCB4519A608094EA6ACDE1B7D99.tmp' to '../../../../../../Users/Ray/Documents/UE4 Projects/GDJam-2019-4-Category/GDJam_2019/Content/Blueprints/LightObject.uasset'
+[2019.11.10-00.06.30:822][356]BlueprintLog: New page: Compile LightObject
+[2019.11.10-00.06.31:154][356]LogUObjectHash: Compacting FUObjectHashTables data took   6.71ms
+[2019.11.10-00.06.51:177][553]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DarkObject" FILE="../../../../../../Users/Ray/Documents/UE4 Projects/GDJam-2019-4-Category/GDJam_2019/Content/Blueprints/DarkObject.uasset" SILENT=true
+[2019.11.10-00.06.51:207][553]LogSavePackage: Moving '../../../../../../Users/Ray/Documents/UE4 Projects/GDJam-2019-4-Category/GDJam_2019/Saved/DarkObjectF6E2010B487BAB7A1FE813888213E41E.tmp' to '../../../../../../Users/Ray/Documents/UE4 Projects/GDJam-2019-4-Category/GDJam_2019/Content/Blueprints/DarkObject.uasset'
+[2019.11.10-00.06.51:864][592]BlueprintLog: New page: Compile DarkObject
+[2019.11.10-00.06.52:185][592]LogUObjectHash: Compacting FUObjectHashTables data took   6.29ms
+[2019.11.10-00.07.12:571][732]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.10-00.07.16:294][939]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.10-00.07.16:311][940]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.10-00.07.16:363][940]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Base_Level.Base_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Base_Level.Base_Level:PersistentLevel.Base_Level' with GeneratedClass '/Game/Maps/Base_Level.Base_Level_C' with ClassGeneratedBy '/Game/Maps/Base_Level.Base_Level:PersistentLevel.Base_Level'
+[2019.11.10-00.07.16:363][940]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.10-00.07.16:363][940]PIE: New page: PIE session: Base_Level (Nov 9, 2019, 2:07:16 PM)
+[2019.11.10-00.07.16:363][940]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Base_Level
+[2019.11.10-00.07.16:365][940]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001514s)
+[2019.11.10-00.07.16:366][940]LogAIModule: Creating AISystem for world Base_Level
+[2019.11.10-00.07.16:366][940]LogPlayLevel: PIE: World Init took: (0.001028s)
+[2019.11.10-00.07.16:366][940]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Base_Level.Base_Level to /Game/Maps/UEDPIE_0_Base_Level.Base_Level (0.002666s)
+[2019.11.10-00.07.16:430][940]LogUObjectHash: Compacting FUObjectHashTables data took   5.59ms
+[2019.11.10-00.07.16:434][940]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.10-00.07.16:518][940]LogInit: FAudioDevice initialized.
+[2019.11.10-00.07.16:527][940]LogLoad: Game class is 'LightAndDark_C'
+[2019.11.10-00.07.16:528][940]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Base_Level.Base_Level up for play (max tick rate 60) at 2019.11.09-19.07.16
+[2019.11.10-00.07.16:528][940]LogWorld: Bringing up level for play took: 0.000628
+[2019.11.10-00.07.16:528][940]LogOnline: OSS: Creating online subsystem instance for: :Context_90
+[2019.11.10-00.07.16:533][940]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Base_Level -0.419
+[2019.11.10-00.07.16:533][940]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Base_Level.Base_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Base_Level.Base_Level:PersistentLevel.Base_Level' with GeneratedClass '/Game/Maps/Base_Level.Base_Level_C' with ClassGeneratedBy '/Game/Maps/Base_Level.Base_Level:PersistentLevel.Base_Level'
+[2019.11.10-00.08.00:059][551]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Base_Level.Base_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Base_Level.Base_Level:PersistentLevel.Base_Level' with GeneratedClass '/Game/Maps/Base_Level.Base_Level_C' with ClassGeneratedBy '/Game/Maps/Base_Level.Base_Level:PersistentLevel.Base_Level'
+[2019.11.10-00.08.00:060][551]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.10-00.08.00:060][551]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Base_Level
+[2019.11.10-00.08.00:060][551]LogWorld: UWorld::CleanupWorld for Base_Level, bSessionEnded=true, bCleanupResources=true
+[2019.11.10-00.08.00:079][551]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.10-00.08.00:079][551]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Base_Level.Base_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Base_Level.Base_Level:PersistentLevel.Base_Level' with GeneratedClass '/Game/Maps/Base_Level.Base_Level_C' with ClassGeneratedBy '/Game/Maps/Base_Level.Base_Level:PersistentLevel.Base_Level'
+[2019.11.10-00.08.00:149][551]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.10-00.08.00:155][551]LogUObjectHash: Compacting FUObjectHashTables data took   4.88ms
+[2019.11.10-00.08.00:175][552]LogPlayLevel: Display: Destroying online subsystem :Context_90
+[2019.11.10-00.08.00:982][600]LogEditorViewport: Clicking Background
+[2019.11.10-00.08.02:133][669]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.10-00.08.26:017][ 44]LogEditorViewport: Clicking Background
+[2019.11.10-00.08.27:109][109]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.10-00.08.27:192][114]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.10-00.08.27:236][114]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Base_Level.Base_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Base_Level.Base_Level:PersistentLevel.Base_Level' with GeneratedClass '/Game/Maps/Base_Level.Base_Level_C' with ClassGeneratedBy '/Game/Maps/Base_Level.Base_Level:PersistentLevel.Base_Level'
+[2019.11.10-00.08.27:236][114]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.10-00.08.27:236][114]PIE: New page: PIE session: Base_Level (Nov 9, 2019, 2:08:27 PM)
+[2019.11.10-00.08.27:236][114]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Base_Level
+[2019.11.10-00.08.27:238][114]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001341s)
+[2019.11.10-00.08.27:238][114]LogAIModule: Creating AISystem for world Base_Level
+[2019.11.10-00.08.27:239][114]LogPlayLevel: PIE: World Init took: (0.000998s)
+[2019.11.10-00.08.27:239][114]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Base_Level.Base_Level to /Game/Maps/UEDPIE_0_Base_Level.Base_Level (0.002441s)
+[2019.11.10-00.08.27:296][114]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2019.11.10-00.08.27:299][114]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.10-00.08.27:385][114]LogInit: FAudioDevice initialized.
+[2019.11.10-00.08.27:398][114]LogLoad: Game class is 'LightAndDark_C'
+[2019.11.10-00.08.27:399][114]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Base_Level.Base_Level up for play (max tick rate 60) at 2019.11.09-19.08.27
+[2019.11.10-00.08.27:400][114]LogWorld: Bringing up level for play took: 0.000843
+[2019.11.10-00.08.27:400][114]LogOnline: OSS: Creating online subsystem instance for: :Context_91
+[2019.11.10-00.08.27:404][114]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Base_Level 0.452
+[2019.11.10-00.08.27:405][114]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Base_Level.Base_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Base_Level.Base_Level:PersistentLevel.Base_Level' with GeneratedClass '/Game/Maps/Base_Level.Base_Level_C' with ClassGeneratedBy '/Game/Maps/Base_Level.Base_Level:PersistentLevel.Base_Level'
+[2019.11.10-00.09.06:132][432]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Base_Level.Base_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Base_Level.Base_Level:PersistentLevel.Base_Level' with GeneratedClass '/Game/Maps/Base_Level.Base_Level_C' with ClassGeneratedBy '/Game/Maps/Base_Level.Base_Level:PersistentLevel.Base_Level'
+[2019.11.10-00.09.06:132][432]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.10-00.09.06:132][432]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Base_Level
+[2019.11.10-00.09.06:132][432]LogWorld: UWorld::CleanupWorld for Base_Level, bSessionEnded=true, bCleanupResources=true
+[2019.11.10-00.09.06:143][432]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.10-00.09.06:143][432]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Base_Level.Base_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Base_Level.Base_Level:PersistentLevel.Base_Level' with GeneratedClass '/Game/Maps/Base_Level.Base_Level_C' with ClassGeneratedBy '/Game/Maps/Base_Level.Base_Level:PersistentLevel.Base_Level'
+[2019.11.10-00.09.06:210][432]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.10-00.09.06:215][432]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2019.11.10-00.09.06:238][433]LogPlayLevel: Display: Destroying online subsystem :Context_91
+[2019.11.10-00.09.07:324][498]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.10-00.09.21:799][355]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.10-00.09.33:497][963]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.10-00.09.33:540][963]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Base_Level.Base_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Base_Level.Base_Level:PersistentLevel.Base_Level' with GeneratedClass '/Game/Maps/Base_Level.Base_Level_C' with ClassGeneratedBy '/Game/Maps/Base_Level.Base_Level:PersistentLevel.Base_Level'
+[2019.11.10-00.09.33:540][963]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.10-00.09.33:540][963]PIE: New page: PIE session: Base_Level (Nov 9, 2019, 2:09:33 PM)
+[2019.11.10-00.09.33:540][963]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Base_Level
+[2019.11.10-00.09.33:542][963]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001554s)
+[2019.11.10-00.09.33:543][963]LogAIModule: Creating AISystem for world Base_Level
+[2019.11.10-00.09.33:543][963]LogPlayLevel: PIE: World Init took: (0.001244s)
+[2019.11.10-00.09.33:543][963]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Base_Level.Base_Level to /Game/Maps/UEDPIE_0_Base_Level.Base_Level (0.002977s)
+[2019.11.10-00.09.33:607][963]LogUObjectHash: Compacting FUObjectHashTables data took   7.20ms
+[2019.11.10-00.09.33:611][963]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.10-00.09.33:726][963]LogInit: FAudioDevice initialized.
+[2019.11.10-00.09.33:736][963]LogLoad: Game class is 'LightAndDark_C'
+[2019.11.10-00.09.33:737][963]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Base_Level.Base_Level up for play (max tick rate 60) at 2019.11.09-19.09.33
+[2019.11.10-00.09.33:738][963]LogWorld: Bringing up level for play took: 0.000718
+[2019.11.10-00.09.33:738][963]LogOnline: OSS: Creating online subsystem instance for: :Context_92
+[2019.11.10-00.09.33:742][963]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Base_Level 0.79
+[2019.11.10-00.09.33:742][963]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Base_Level.Base_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Base_Level.Base_Level:PersistentLevel.Base_Level' with GeneratedClass '/Game/Maps/Base_Level.Base_Level_C' with ClassGeneratedBy '/Game/Maps/Base_Level.Base_Level:PersistentLevel.Base_Level'
+[2019.11.10-00.09.49:879][931]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Base_Level.Base_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Base_Level.Base_Level:PersistentLevel.Base_Level' with GeneratedClass '/Game/Maps/Base_Level.Base_Level_C' with ClassGeneratedBy '/Game/Maps/Base_Level.Base_Level:PersistentLevel.Base_Level'
+[2019.11.10-00.09.49:879][931]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.10-00.09.49:879][931]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Base_Level
+[2019.11.10-00.09.49:879][931]LogWorld: UWorld::CleanupWorld for Base_Level, bSessionEnded=true, bCleanupResources=true
+[2019.11.10-00.09.49:894][931]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.10-00.09.49:894][931]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Base_Level.Base_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Base_Level.Base_Level:PersistentLevel.Base_Level' with GeneratedClass '/Game/Maps/Base_Level.Base_Level_C' with ClassGeneratedBy '/Game/Maps/Base_Level.Base_Level:PersistentLevel.Base_Level'
+[2019.11.10-00.09.49:963][931]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.10-00.09.49:968][931]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2019.11.10-00.09.49:989][932]LogPlayLevel: Display: Destroying online subsystem :Context_92
+[2019.11.10-00.09.50:742][977]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.10-00.09.55:646][269]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DarkObject" FILE="../../../../../../Users/Ray/Documents/UE4 Projects/GDJam-2019-4-Category/GDJam_2019/Content/Blueprints/DarkObject.uasset" SILENT=true
+[2019.11.10-00.09.55:684][269]LogSavePackage: Moving '../../../../../../Users/Ray/Documents/UE4 Projects/GDJam-2019-4-Category/GDJam_2019/Saved/DarkObjectFEC62C124E85C107A50F02B9E60FAF3B.tmp' to '../../../../../../Users/Ray/Documents/UE4 Projects/GDJam-2019-4-Category/GDJam_2019/Content/Blueprints/DarkObject.uasset'
+[2019.11.10-00.10.10:411][143]BlueprintLog: New page: Compile DarkObject
+[2019.11.10-00.10.10:739][143]LogUObjectHash: Compacting FUObjectHashTables data took   5.09ms
+[2019.11.10-00.10.11:212][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DarkObject" FILE="../../../../../../Users/Ray/Documents/UE4 Projects/GDJam-2019-4-Category/GDJam_2019/Content/Blueprints/DarkObject.uasset" SILENT=true
+[2019.11.10-00.10.11:242][167]LogSavePackage: Moving '../../../../../../Users/Ray/Documents/UE4 Projects/GDJam-2019-4-Category/GDJam_2019/Saved/DarkObjectD5CC61EB4BE5098C29000FB6BA535C4C.tmp' to '../../../../../../Users/Ray/Documents/UE4 Projects/GDJam-2019-4-Category/GDJam_2019/Content/Blueprints/DarkObject.uasset'
+[2019.11.10-00.10.12:253][227]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.10-00.10.12:294][227]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Base_Level.Base_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Base_Level.Base_Level:PersistentLevel.Base_Level' with GeneratedClass '/Game/Maps/Base_Level.Base_Level_C' with ClassGeneratedBy '/Game/Maps/Base_Level.Base_Level:PersistentLevel.Base_Level'
+[2019.11.10-00.10.12:294][227]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.10-00.10.12:294][227]PIE: New page: PIE session: Base_Level (Nov 9, 2019, 2:10:12 PM)
+[2019.11.10-00.10.12:294][227]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Base_Level
+[2019.11.10-00.10.12:295][227]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001342s)
+[2019.11.10-00.10.12:296][227]LogAIModule: Creating AISystem for world Base_Level
+[2019.11.10-00.10.12:296][227]LogPlayLevel: PIE: World Init took: (0.000902s)
+[2019.11.10-00.10.12:297][227]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Base_Level.Base_Level to /Game/Maps/UEDPIE_0_Base_Level.Base_Level (0.002423s)
+[2019.11.10-00.10.12:354][227]LogUObjectHash: Compacting FUObjectHashTables data took   5.29ms
+[2019.11.10-00.10.12:357][227]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.10-00.10.12:455][227]LogInit: FAudioDevice initialized.
+[2019.11.10-00.10.12:484][227]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.10-00.10.12:484][227]LogLoad: Game class is 'LightAndDark_C'
+[2019.11.10-00.10.12:487][227]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Base_Level.Base_Level up for play (max tick rate 60) at 2019.11.09-19.10.12
+[2019.11.10-00.10.12:488][227]LogWorld: Bringing up level for play took: 0.001894
+[2019.11.10-00.10.12:488][227]LogOnline: OSS: Creating online subsystem instance for: :Context_93
+[2019.11.10-00.10.12:491][227]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.11.10-00.10.12:496][227]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Base_Level -0.457
+[2019.11.10-00.10.12:496][227]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Base_Level.Base_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Base_Level.Base_Level:PersistentLevel.Base_Level' with GeneratedClass '/Game/Maps/Base_Level.Base_Level_C' with ClassGeneratedBy '/Game/Maps/Base_Level.Base_Level:PersistentLevel.Base_Level'
+[2019.11.10-00.10.21:804][785]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Base_Level.Base_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Base_Level.Base_Level:PersistentLevel.Base_Level' with GeneratedClass '/Game/Maps/Base_Level.Base_Level_C' with ClassGeneratedBy '/Game/Maps/Base_Level.Base_Level:PersistentLevel.Base_Level'
+[2019.11.10-00.10.21:805][785]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.10-00.10.21:805][785]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Base_Level
+[2019.11.10-00.10.21:829][785]LogSlate: Window 'GDJam_2019 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.11.10-00.10.21:836][785]LogWorld: UWorld::CleanupWorld for Base_Level, bSessionEnded=true, bCleanupResources=true
+[2019.11.10-00.10.21:850][785]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.10-00.10.21:851][785]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Base_Level.Base_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Base_Level.Base_Level:PersistentLevel.Base_Level' with GeneratedClass '/Game/Maps/Base_Level.Base_Level_C' with ClassGeneratedBy '/Game/Maps/Base_Level.Base_Level:PersistentLevel.Base_Level'
+[2019.11.10-00.10.21:933][785]LogUObjectHash: Compacting FUObjectHashTables data took   5.79ms
+[2019.11.10-00.10.21:982][786]LogPlayLevel: Display: Destroying online subsystem :Context_93
+[2019.11.10-00.10.22:873][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DarkObject" FILE="../../../../../../Users/Ray/Documents/UE4 Projects/GDJam-2019-4-Category/GDJam_2019/Content/Blueprints/DarkObject.uasset" SILENT=true
+[2019.11.10-00.10.22:896][838]LogSavePackage: Moving '../../../../../../Users/Ray/Documents/UE4 Projects/GDJam-2019-4-Category/GDJam_2019/Saved/DarkObjectCB32BE5D4A72A7C02E919080764E1A50.tmp' to '../../../../../../Users/Ray/Documents/UE4 Projects/GDJam-2019-4-Category/GDJam_2019/Content/Blueprints/DarkObject.uasset'
+[2019.11.10-00.10.25:753][  5]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2019.11.10-00.10.25:833][  5]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2019.11.10-00.10.26:132][  5]LogSavePackage: Moving '../../../../../../Users/Ray/Documents/UE4 Projects/GDJam-2019-4-Category/GDJam_2019/Saved/Base_Level00665A0140C1E769E0FFA49A2F2975C6.tmp' to '../../../../../../Users/Ray/Documents/UE4 Projects/GDJam-2019-4-Category/GDJam_2019/Content/Maps/Base_Level.umap'
+[2019.11.10-00.10.26:183][  5]LogFileHelpers: Saving map 'Base_Level' took 0.406
+[2019.11.10-00.11.04:217][277]Cmd: DELETE
+[2019.11.10-00.11.04:218][277]Cmd: ACTOR DELETE
+[2019.11.10-00.11.04:219][277]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.10-00.11.04:278][277]LogUObjectHash: Compacting FUObjectHashTables data took   5.43ms
+[2019.11.10-00.11.04:279][277]LogEditorActor: Deleted 1 Actors (0.062 secs)
+[2019.11.10-00.11.05:621][357]Cmd: DELETE
+[2019.11.10-00.11.05:621][357]Cmd: ACTOR DELETE
+[2019.11.10-00.11.05:623][357]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.10-00.11.05:679][357]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2019.11.10-00.11.05:679][357]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2019.11.10-00.11.07:667][472]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2019.11.10-00.11.07:953][472]LogSavePackage: Moving '../../../../../../Users/Ray/Documents/UE4 Projects/GDJam-2019-4-Category/GDJam_2019/Saved/Base_LevelE15F485349341E943307498B89538770.tmp' to '../../../../../../Users/Ray/Documents/UE4 Projects/GDJam-2019-4-Category/GDJam_2019/Content/Maps/Base_Level.umap'
+[2019.11.10-00.11.11:966][705]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2019.11.10-00.11.13:341][788]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.10-00.11.13:382][788]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Base_Level.Base_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Base_Level.Base_Level:PersistentLevel.Base_Level' with GeneratedClass '/Game/Maps/Base_Level.Base_Level_C' with ClassGeneratedBy '/Game/Maps/Base_Level.Base_Level:PersistentLevel.Base_Level'
+[2019.11.10-00.11.13:382][788]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.10-00.11.13:382][788]PIE: New page: PIE session: Base_Level (Nov 9, 2019, 2:11:13 PM)
+[2019.11.10-00.11.13:383][788]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Base_Level
+[2019.11.10-00.11.13:384][788]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001255s)
+[2019.11.10-00.11.13:385][788]LogAIModule: Creating AISystem for world Base_Level
+[2019.11.10-00.11.13:385][788]LogPlayLevel: PIE: World Init took: (0.000943s)
+[2019.11.10-00.11.13:385][788]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Base_Level.Base_Level to /Game/Maps/UEDPIE_0_Base_Level.Base_Level (0.002298s)
+[2019.11.10-00.11.13:440][788]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2019.11.10-00.11.13:443][788]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.10-00.11.13:527][788]LogInit: FAudioDevice initialized.
+[2019.11.10-00.11.13:537][788]LogLoad: Game class is 'LightAndDark_C'
+[2019.11.10-00.11.13:538][788]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Base_Level.Base_Level up for play (max tick rate 60) at 2019.11.09-19.11.13
+[2019.11.10-00.11.13:538][788]LogWorld: Bringing up level for play took: 0.000632
+[2019.11.10-00.11.13:538][788]LogOnline: OSS: Creating online subsystem instance for: :Context_94
+[2019.11.10-00.11.13:542][788]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Base_Level 0.59
+[2019.11.10-00.11.13:542][788]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Base_Level.Base_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Base_Level.Base_Level:PersistentLevel.Base_Level' with GeneratedClass '/Game/Maps/Base_Level.Base_Level_C' with ClassGeneratedBy '/Game/Maps/Base_Level.Base_Level:PersistentLevel.Base_Level'
+[2019.11.10-00.11.27:909][647]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Base_Level.Base_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Base_Level.Base_Level:PersistentLevel.Base_Level' with GeneratedClass '/Game/Maps/Base_Level.Base_Level_C' with ClassGeneratedBy '/Game/Maps/Base_Level.Base_Level:PersistentLevel.Base_Level'
+[2019.11.10-00.11.27:909][647]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.10-00.11.27:909][647]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Base_Level
+[2019.11.10-00.11.27:909][647]LogWorld: UWorld::CleanupWorld for Base_Level, bSessionEnded=true, bCleanupResources=true
+[2019.11.10-00.11.27:925][647]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.10-00.11.27:925][647]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Base_Level.Base_Level:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Base_Level.Base_Level:PersistentLevel.Base_Level' with GeneratedClass '/Game/Maps/Base_Level.Base_Level_C' with ClassGeneratedBy '/Game/Maps/Base_Level.Base_Level:PersistentLevel.Base_Level'
+[2019.11.10-00.11.27:987][647]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.10-00.11.27:993][647]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2019.11.10-00.11.28:013][648]LogPlayLevel: Display: Destroying online subsystem :Context_94
+[2019.11.10-00.12.42:447][927]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.10-00.12.42:667][935]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2019.11.10-00.12.42:948][935]LogSavePackage: Moving '../../../../../../Users/Ray/Documents/UE4 Projects/GDJam-2019-4-Category/GDJam_2019/Saved/Base_Level92AA4E89474DBAE5F5132D82E9072729.tmp' to '../../../../../../Users/Ray/Documents/UE4 Projects/GDJam-2019-4-Category/GDJam_2019/Content/Maps/Base_Level.umap'
+[2019.11.10-00.13.00:643][751]LogUObjectHash: Compacting FUObjectHashTables data took   5.50ms
